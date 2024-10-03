@@ -14,6 +14,8 @@ I'm a software developer with a strong passion for web technologies, game develo
 ## 💬 Ask Me About
 - **Music Production**: I have a deep passion for **modular synthesizers** and analogue gear. Let's talk about sound design and synthesis techniques!
 
+<!-- TO DO: add more details about me later, uch as relevant contact details (when I'm ready) -->
+
 <!--
 **DavidCampbellTech/DavidCampbellTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
